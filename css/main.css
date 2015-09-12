@@ -536,7 +536,7 @@ ul.ranking > li.me a:active{
 }
 .form.lancamentos button,
 .form.contato,
-.form.cadastro button{
+.form.cadastro button,{
   background-color:  #ce6604;
   color:  #181818;
   font-size: 34px;/* Approximation due to font substitution */
@@ -712,6 +712,21 @@ ul.ranking > li.me a:active{
   font-family: Tahoma;
   padding:10px 0;
   border: 2.5px #2c2c2c solid;
+}
+.button{
+  background-color:  #ce6604;
+  color:  #181818;
+  font-size: 34px;/* Approximation due to font substitution */
+  font-weight: 700;
+  text-align: center;
+  padding: 0 40px;
+  height: 80px;
+  margin: 30px auto 10px;
+  display:block;
+  border: 0;
+}
+.button > a{
+  color: #181818;
 }
 /* ==========================================================================
    Helper classes
