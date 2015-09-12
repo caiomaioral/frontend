@@ -535,7 +535,8 @@ ul.ranking > li.me a:active{
   margin: 0 auto;
 }
 .form.lancamentos button,
-.form.contato button{
+.form.contato,
+.form.cadastro button{
   background-color:  #ce6604;
   color:  #181818;
   font-size: 34px;/* Approximation due to font substitution */
@@ -1279,10 +1280,9 @@ ul.ranking > li.me a:active{
 }
 
 .scale-73 {
-  height: 73%;
-}
+  height: 73%;LANÇAMENTO SERÁ ENTREGUE AOS SEUS CUIDADOS NA CONCESSIONÁRIA
 
-.scale-74 {
+
   height: 74%;
 }
 
