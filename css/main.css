@@ -713,6 +713,11 @@ ul.ranking > li.me a:active{
   padding:10px 0;
   border: 2.5px #2c2c2c solid;
 }
+.historico select{
+  background-color: #181818;
+  color: white;
+  border: 0;
+}
 .button{
   background-color:  #ce6604;
   color:  #181818;
