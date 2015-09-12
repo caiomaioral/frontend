@@ -694,6 +694,25 @@ ul.ranking > li.me a:active{
 .faq .wall{
   margin: 50px 0;
 }
+.historico{
+  color: white;
+}
+.historico table{
+  margin: 20px 0;
+  width: 100%;
+  text-align: center;
+
+}
+.historico table thead tr th{
+  height: 30px;
+  background-color: #ce6604;
+  font-weight: bold;
+}
+.historico table tbody tr td{
+  font-family: Tahoma;
+  padding:10px 0;
+  border: 2.5px #2c2c2c solid;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
