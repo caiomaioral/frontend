@@ -374,6 +374,20 @@ a:active{
   text-align: center;
 }
 
+.bt_cadastro{
+  width: 40%;
+  border: 1px transparent;
+  margin: 0 auto;
+  background-color: #ce6604;
+  color: black;
+  padding: 20px;
+  color:  #181818;
+  font-size: 26.17px;/* Approximation due to font substitution */
+  font-weight: 700;
+  line-height: 44.165px;/* Approximation due to font substitution */
+  text-align: center;
+}
+
 .form textarea{
   font-family: Tahoma;
   font-size: 16.84px;
@@ -456,7 +470,9 @@ ul{ list-style:none }
   -moz-box-shadow:    4px 4px 0px 0px rgba(243, 116, 9, 1);
   box-shadow:         4px 4px 0px 0px rgba(243, 116, 9, 1);
 }
-
+.desempenho {
+	margin-left: 30px;
+}
 .two-columns div[class^='pull']{
   display: inline-block;
   vertical-align: top;
